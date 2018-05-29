@@ -1,0 +1,18 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\internalFrame\bin\Debug\internalFrame.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\internalFrame\bin\Debug\internalFrame.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\internalFrame\obj\x86\Debug\internalFrame.Form1.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\internalFrame\obj\x86\Debug\internalFrame.Properties.Resources.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\internalFrame\obj\x86\Debug\internalFrame.csproj.GenerateResource.Cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\internalFrame\obj\x86\Debug\internalFrame.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\internalFrame\obj\x86\Debug\internalFrame.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\internalFrame\obj\x86\Debug\internalFrame.frmTeste1.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\internalFrame\obj\x86\Debug\internalFrame.frmTeste2.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\internalFrame\internalFrame\obj\x86\Debug\internalFrame.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\internalFrame\internalFrame\obj\x86\Debug\internalFrame.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\internalFrame\internalFrame\bin\Debug\internalFrame.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\internalFrame\internalFrame\bin\Debug\internalFrame.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\internalFrame\internalFrame\obj\x86\Debug\internalFrame.Form1.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\internalFrame\internalFrame\obj\x86\Debug\internalFrame.frmTeste1.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\internalFrame\internalFrame\obj\x86\Debug\internalFrame.frmTeste2.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\internalFrame\internalFrame\obj\x86\Debug\internalFrame.Properties.Resources.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\internalFrame\internalFrame\obj\x86\Debug\internalFrame.csproj.GenerateResource.Cache
